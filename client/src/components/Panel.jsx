@@ -30,7 +30,7 @@ function Panel() {
 },[socket,id])
 
   useEffect(() => {
-    const s = io("http://localhost:5000")
+    const s = io("https://devpad2-0.onrender.com")
     setSocket(s);
 
     return () => {
