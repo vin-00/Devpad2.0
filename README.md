@@ -21,6 +21,12 @@ Welcome to DevPad, a real-time collaborative web application for writing and tes
 - **Real-Time Communication**: Socket.io
 - **Database**: MongoDB Atlas
 
+## Installtion
+- Clone the repository and then run ' npm i ' to download the necessary server side dependencies .
+- Then move to the client folder and run ' npm i --legacy-peer-deps ' to download the necessary client side dependencies .
+- Now you can run the client and server side to see the changes.
+- Note : Please update the links in server and client to make sure socket connection is made successfully .
+
 ## Contact
 
 For any inquiries or issues, please contact us at [winkhatri292004@gmail.com](mailto:winkhatri292004@gmail.com).
