@@ -2,6 +2,9 @@
 
 ## [Website](https://devpad2-0.onrender.com)
 
+![image](https://github.com/vin-00/devpad2.0/assets/132657698/9f35bc22-0262-45df-b15e-c4f615399963)
+
+
 Welcome to DevPad, a real-time collaborative web application for writing and testing HTML, CSS, and JavaScript code. DevPad provides an interactive platform for developers to code together and see changes live.
 
 ## Features
